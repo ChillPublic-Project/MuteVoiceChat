@@ -1,0 +1,3 @@
+messages:
+  enabled: true
+  join-message: "<red>Vous êtes mute sur le serveur"

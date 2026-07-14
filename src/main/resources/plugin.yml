@@ -1,0 +1,8 @@
+name: VoiceChatMute
+author: RS
+version: 1.0.0
+api-version: '1.21'
+main: fr.redsavant.Main
+depend:
+  - voicechat
+  - LiteBans
